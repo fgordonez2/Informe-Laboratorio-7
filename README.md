@@ -14,13 +14,13 @@
  
 ***Especificos*** 
 
-*Indagar el beneficio de usar el teorema de Thevenin, en la resolución de un circuito.*
+*Verificar el comportamiento de la bobina y el capacitor en circuitos DC*
 
-*Verificar teóricamente las relación del teorema de Thevenin, para calcular la corriente que circula por la resistencia de carga*
+*Verificar el comportamiento de la bobina y el capacitor en circuitos AC*
 
-*Calcular las resistencia equivalentes y voltaje equivalente con ayuda del teorema.*
+*Verificar las combinaciones serie y paralelo de bobinas y capacitores*
 
-*Demostrar la simplificación de un circuito complejo a uno más simple*
+*Familiarizarse con el uso de instrumentos de medida*
 
 ### 2. MARCO TEÓRICO
 
