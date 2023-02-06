@@ -10,8 +10,8 @@
 
 ***General***
 
-*Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo, mediante previos conocimientos  sobre  la  representación  de  un  circuito  lineal  activo,  con terminales a b, por otro circuito más sencillo; para resolver circuitos complejos de una forma más sencilla y rápida*
- 
+*Entender el funcionamiento de inductores y capacitores armando circuitos en el simulador Dcaclab verificando su comportamiento , de modo que se empleen los conocimientos adquiridos en clase*
+
 ***Especificos*** 
 
 *Verificar el comportamiento de la bobina y el capacitor en circuitos DC*
