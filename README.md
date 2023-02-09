@@ -50,6 +50,24 @@
 
 - 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
 
+Cuando se hace circular una corriente continua a través de una bobina esta se comporta, a efectos resistivos, como un hilo conductor y ofrece al 
+paso de la misma una resistencia que dependerá del material conductor (cobre, plata, aluminio, etcétera). Pero, además, una bobina sometida a la 
+variación que supone pasar de estar con sus extremos al aire a ser conectada a una diferencia de potencial genera a su alrededor un campo magnético, 
+de algún modo igual al generado por un imán permanente.
+
+![image](https://user-images.githubusercontent.com/104925648/217962786-06dc7725-e560-45da-8f81-42058ff5ecfa.png)
+
+La circulación de una corriente a través de un hilo conductor genera también alrededor del mismo un campo magnético, el cual es muy pequeño. 
+Cuando arrollamos dicho cable en espiras decir, conformando una bobina obtenemos una suma de campos que origina que la inductancia magnética 
+generada sea de mucha más magnitud.
+
+![image](https://user-images.githubusercontent.com/104925648/217962925-9d4d79f2-5f7e-4e2a-80ba-013e56cd7055.png)
+
+ *CONLUSIÓM:* Una bobina en corriente continua se comporta como un cortocircuito , ya que al ser la corriente constante, es decir, no varía 
+ con el tiempo, no hay autoinducción de ninguna f.e.m.
+
+
+
 - 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
 
 - 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
@@ -73,3 +91,4 @@
 
 - FLOYD, THOMAS L.Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
 - BOYLESTAD, ROBERT L. Introducción al análisis de circuitos. PEARSON EDUCACIÓN, México, 2004
+- Hosted by www.Geocities.ws
