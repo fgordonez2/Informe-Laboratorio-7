@@ -48,7 +48,7 @@
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-- 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?
+**- 1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?**
 
 Cuando se hace circular una corriente continua a través de una bobina esta se comporta, a efectos resistivos, como un hilo conductor y ofrece al 
 paso de la misma una resistencia que dependerá del material conductor (cobre, plata, aluminio, etcétera). Pero, además, una bobina sometida a la 
@@ -63,19 +63,40 @@ generada sea de mucha más magnitud.
 
 ![image](https://user-images.githubusercontent.com/104925648/217962925-9d4d79f2-5f7e-4e2a-80ba-013e56cd7055.png)
 
- *CONLUSIÓM:* Una bobina en corriente continua se comporta como un cortocircuito , ya que al ser la corriente constante, es decir, no varía 
+ **CONLUSIÓN:** Una bobina en corriente continua se comporta como un cortocircuito , ya que al ser la corriente constante, es decir, no varía 
  con el tiempo, no hay autoinducción de ninguna f.e.m.
+ 
+ Si  se  conecta  una  batería  a  un  capacitor  por  donde  circula  una  corriente  el capacitor puede actuar de dos maneras:  
+ 
+ -  Como  un  corto  circuito,  cuando  el  capacitor  está  completamente descargado. 
+ -  Como un circuito abierto, cuando el capacitor está completamente cargado.
+ 
+ ![image](https://user-images.githubusercontent.com/104925648/217963401-ad7c82aa-bacf-4f66-978a-8287c63b7223.png)
+
+ 
+**- 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?**
+
+En corriente alterna, una bobina ofrece una resistencia al paso de la corriente eléctrica debido a que se produce un campo 
+magnético que varía de manera continua haciendo que exista un voltaje contrario al ofrecido por la fuente inicial.
+
+El condensador se carga y descarga tantas veces como varíe el voltaje. Por ejemplo, en una corriente alterna de 60Hz, la tensión es 
+positiva 60 veces y negativa  otras  60  veces  dentro  de  un  segundo,  esto  quiere  decir  que  el capacitor se carga y descarga 120 veces por segundo
 
 
-
-- 2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?
-
-- 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
-      circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores?
-
-- 4.- ¿Qué son los valores eficaces de voltaje y corriente?
+**- 3.- ¿Qué cree usted que ocurriría con el voltaje  y la corriente de la resistencia en los
+      circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores?**
+      
+Los capacitores en paralelo encontrarán un punto medio o de equilibrio entre las dos para que cuando esté descargados impidan que pase la corriente
 
 
+**- 4.- ¿Qué son los valores eficaces de voltaje y corriente?**
+
+Se denomina valor eficaz al valor cuadrático medio de una magnitud eléctrica. El concepto de valor eficaz se utiliza especialmente 
+para estudiar las formas de onda periódicas, a pesar de ser aplicable a todas las formas de onda, constantes o no. 
+
+![image](https://user-images.githubusercontent.com/104925648/217963992-91863257-dfa8-4baf-bfd6-76ce7f4a54af.png)
+
+![image](https://user-images.githubusercontent.com/104925648/217964027-0e4c2b47-3097-406d-9cfd-61569d76eadc.png)
 
 ### 5. VIDEO
 
