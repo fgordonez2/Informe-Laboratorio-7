@@ -24,6 +24,8 @@
 
 ### 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/104925648/217906633-c167e809-d80d-432f-8ee6-81ec2a0885c4.png)
+
 
 
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
