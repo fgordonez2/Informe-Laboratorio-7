@@ -26,7 +26,13 @@
 
 ![image](https://user-images.githubusercontent.com/104925648/217906633-c167e809-d80d-432f-8ee6-81ec2a0885c4.png)
 
+![image](https://user-images.githubusercontent.com/104925648/217916278-60c47901-5ffa-4a5e-a852-82aee216a7df.png)
 
+![image](https://user-images.githubusercontent.com/104925648/217916327-55f6aca3-53cc-4e75-9804-445cacc8f8b0.png)
+
+![image](https://user-images.githubusercontent.com/104925648/217916379-88f2a91d-b43c-400b-80db-01e41076938c.png)
+
+![image](https://user-images.githubusercontent.com/104925648/217916461-a47ae3f7-8b75-4dfc-8d35-54a3eaac4fd6.png)
 
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
