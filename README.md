@@ -40,6 +40,8 @@
 
 ![image](https://user-images.githubusercontent.com/104925648/217961831-a40961f5-176e-4e75-82e6-3a614e29c15f.png)
 
+![image](https://user-images.githubusercontent.com/104925648/217989923-c270008a-5316-439b-b53c-9ec0da5603b6.png)
+
 
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -125,12 +127,14 @@ para estudiar las formas de onda periódicas, a pesar de ser aplicable a todas l
 
 ### 6. CONCLUSIONES
 
-*Se logró verificar de manera correcta el comportamiento de los capacitores e inductores en conjunto con una resistencia para los 
-circuitos con DC y AC, mediante la toma de mediciones de voltaje y analizando la onda sinusoidal con respecto a valores pico, tiempo, periódo y ciclo*
+- *Se logró verificar de manera simulada el comportamiento de los capacitores e inductores en conjunto con una resistencia para los 
+circuitos con DC y AC, mediante la toma de mediciones de voltaje y analizando la onda sinusoidal con respecto a valores pico, tiempo, periódo y ciclo
+en el osciloscopio*
 
-*Se pudo usar el osciloscopio eficazmente, de forma que permitia generar las ondas que se requerían para encontrar los valores a hallar, 
+- *Se pudo usar el osciloscopio de manera correcta, lo cual permitía generar las ondas que se requerían para encontrar los valores, 
 además se logró identificar capacitores e inductancias en serie o paralelo*
 
+- *
 *-
 *-
 ### 7._ BIBLIOGRAFÍA
