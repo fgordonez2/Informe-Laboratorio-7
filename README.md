@@ -67,15 +67,15 @@
 
 **Voltaje con una frecuencia de 100Hz**
 
-![image](https://user-images.githubusercontent.com/116774906/217988614-b341f854-9da2-4751-97dd-d67868a0a174.png)
+![image](https://user-images.githubusercontent.com/116774906/217997740-ed8c7a4b-aa2c-4a25-88c9-3b528ab4f337.png)
 
 **Voltaje con una frecuencia de 500Hz**
 
-![image](https://user-images.githubusercontent.com/116774906/217988903-e3ccf22e-d858-4346-a224-2c7b5d069881.png)
+![image](https://user-images.githubusercontent.com/116774906/217997225-0a9cd070-5461-4106-b59e-b42b598bb9e3.png)
 
 **Voltaje con una frecuencia de 1000Hz**
 
-![image](https://user-images.githubusercontent.com/116774906/217989560-d8435cc3-10d5-446d-a6b7-02e0dc425502.png)
+![image](https://user-images.githubusercontent.com/116774906/217996994-e1245d28-d3ef-4ef6-a561-aeecabbdf98f.png)
 
 **3.2 Utilice un multimetro para medir el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.**
 
