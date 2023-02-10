@@ -43,8 +43,30 @@
 
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+***Construya en el protoboard el circuito***
+
+![image](https://user-images.githubusercontent.com/116774906/217984492-225edc59-b76c-4db5-a700-e615998c694f.png)
+
+*Circuito simulado en DCAClab*
+
+![image](https://user-images.githubusercontent.com/116774906/217984621-4c3f6213-f902-414c-9e44-c42ff0af82ec.png)
+
+** 3.1 Utilice el osciloscopio para observar el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores picos de las ondas observadas.
+
+**Voltaje con una frecuencia de 0Hz**
+
+![image](https://user-images.githubusercontent.com/116774906/217985199-9996297a-650e-4fb5-aca0-ba4ab06b6442.png)
+
+**Voltaje con una frecuencia de 10Hz**
 
 
+**Voltaje con una frecuencia de 50Hz**
+
+**Voltaje con una frecuencia de 100Hz**
+
+**Voltaje con una frecuencia de 500Hz**
+
+**Voltaje con una frecuencia de 1000Hz**
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
