@@ -133,6 +133,92 @@
 
 ![image](https://user-images.githubusercontent.com/116774906/217998502-b789033b-53b9-46a8-bb1a-4cc1026e4dc0.png)
 
+------------------------------------------------------------------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/104925648/218104128-dd3f666d-611d-4722-8c3f-9784e9bf5396.png)
+
+**3.1 Utilice el osciloscopio para observar el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. 
+Anote los valores picos de las ondas observadas.**
+
+**Voltaje con una frecuencia de 0Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218104309-5577d863-cfcb-4b4d-9247-b2e63ce59690.png)
+
+**Voltaje con una frecuencia de 10Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218104366-586e1db5-3247-4573-b6b0-ba9c8aa33fe4.png)
+
+**Voltaje con una frecuencia de 50Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218104427-c9197565-4d2d-4903-b92c-a3f71690d4f8.png)
+
+**Voltaje con una frecuencia de 100Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218104497-d298c8f9-a201-45c3-be62-aa9f561e77ad.png)
+
+**Voltaje con una frecuencia de 500Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218104548-4aa4f169-97a7-4209-9c8e-b106e4c2566f.png)
+
+**Voltaje con una frecuencia de 1000Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218104618-83bb8d2b-d593-461d-b102-8d69543d4d3e.png)
+
+**3.2 Utilice un multimetro para medir el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.**
+
+**Voltaje con una frecuencia de 0Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218104787-e6f0007d-94d2-4c19-8602-3b2338198908.png)
+
+**Voltaje con una frecuencia de 10Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218104854-5da62c85-858e-4740-8745-8313a6a9d6d6.png)
+
+**Voltaje con una frecuencia de 50Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218104906-06f37e53-62a7-46b9-8006-9bcba1b34361.png)
+
+**Voltaje con una frecuencia de 100Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218104980-23d14d1d-e672-4299-a566-dfddf5c73bfd.png)
+
+**Voltaje con una frecuencia de 500Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218105058-98540d6b-399a-4812-8e51-6ad673b86747.png)
+
+**Voltaje con una frecuencia de 1000Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218105116-f3210f69-7449-4532-85f1-683d4ea34410.png)
+
+**3.3 Utilice un multimetro para medir la corriente que atraviesa la resistencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.**
+
+**Corriente con una frecuencia de 0Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218105279-d3fd89f3-d09f-442d-96e5-cedbc7b64ea0.png)
+
+**Corriente con una frecuencia de 10Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218105337-655266ae-6b8d-465a-9c66-0bc90e8a8737.png)
+
+**Corriente con una frecuencia de 50Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218105407-7b483bc4-df63-469d-8c99-c37199844897.png)
+
+**Corriente con una frecuencia de 100Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218105480-5c99fbca-0cc2-49a0-8781-e4244b709d47.png)
+
+**Corriente con una frecuencia de 500Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218105537-db6ae915-2bb5-4e20-b182-73ad3d6d8369.png)
+
+**Corriente con una frecuencia de 1000Hz**
+
+![image](https://user-images.githubusercontent.com/104925648/218105609-e486994d-46e7-4d16-aa7d-58987298aa2f.png)
+
+***TABLA DE DATOS***
+
+![image](https://user-images.githubusercontent.com/104925648/218105708-88c5e6c5-09ab-4601-b7e5-5d30a058a285.png)
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
