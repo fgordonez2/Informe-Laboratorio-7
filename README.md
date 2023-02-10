@@ -134,9 +134,12 @@ en el osciloscopio*
 - *Se pudo usar el osciloscopio de manera correcta, lo cual permitía generar las ondas que se requerían para encontrar los valores, 
 además se logró identificar capacitores e inductancias en serie o paralelo*
 
-- *
-*-
-*-
+- *Para este laboratorio fue importante tener paciencia a la hora trabajar con el simulador de dcaclab ya que este presentaba 
+inconvenientes y en ciertas ocasiones no arrojaba los valores exactos o precisos que debería dar*
+
+- *Inductores y capacitores se utilizan en circuitos de audio para filtrar o amplificar frecuencias específicas. Se utilizan como filtros de 
+línea telefónica, para eliminar las señales de alta frecuencia de banda ancha y se colocan en los extremos de los cables de señal para reducir el ruido*
+
 ### 7._ BIBLIOGRAFÍA
 
 - FLOYD, THOMAS L.Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
