@@ -10,7 +10,8 @@
 
 ***General***
 
-*Entender el funcionamiento de inductores y capacitores armando circuitos en el simulador Dcaclab verificando su comportamiento , de modo que se empleen los conocimientos adquiridos en clase*
+*Entender el funcionamiento de inductores y capacitores, mediante el armado de los circuitos esquematizados en la guía de laboratorio en el simulador ACDCLab,
+para analizar su comportamiento con ayuda los conocimientos adquiridos en clase*
 
 ***Especificos*** 
 
