@@ -10,8 +10,7 @@
 
 ***General***
 
-*Entender el funcionamiento de inductores y capacitores, mediante el armado de los circuitos esquematizados en la guía de laboratorio en el simulador ACDCLab,
-para analizar su comportamiento con ayuda los conocimientos adquiridos en clase*
+*Entender el funcionamiento de inductores y capacitores armando circuitos en el simulador Dcaclab verificando su comportamiento , de modo que se empleen los conocimientos adquiridos en clase*
 
 ***Especificos*** 
 
@@ -41,8 +40,6 @@ para analizar su comportamiento con ayuda los conocimientos adquiridos en clase*
 
 ![image](https://user-images.githubusercontent.com/104925648/217961831-a40961f5-176e-4e75-82e6-3a614e29c15f.png)
 
-![image](https://user-images.githubusercontent.com/104925648/217989923-c270008a-5316-439b-b53c-9ec0da5603b6.png)
-
 
 ### 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -54,22 +51,87 @@ para analizar su comportamiento con ayuda los conocimientos adquiridos en clase*
 
 ![image](https://user-images.githubusercontent.com/116774906/217984621-4c3f6213-f902-414c-9e44-c42ff0af82ec.png)
 
-** 3.1 Utilice el osciloscopio para observar el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores picos de las ondas observadas.
+**3.1 Utilice el osciloscopio para observar el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los valores picos de las ondas observadas.**
 
 **Voltaje con una frecuencia de 0Hz**
 
-![image](https://user-images.githubusercontent.com/116774906/217985199-9996297a-650e-4fb5-aca0-ba4ab06b6442.png)
+![image](https://user-images.githubusercontent.com/116774906/217987523-420c99e2-bc66-4a81-ada4-f6487fb4dd91.png)
 
 **Voltaje con una frecuencia de 10Hz**
 
+![image](https://user-images.githubusercontent.com/116774906/217987881-e8b53760-0799-418b-a28f-376cb20273cb.png)
 
 **Voltaje con una frecuencia de 50Hz**
 
+![image](https://user-images.githubusercontent.com/116774906/217988109-8029be00-0479-4b03-91cf-c85e63bf928a.png)
+
 **Voltaje con una frecuencia de 100Hz**
+
+![image](https://user-images.githubusercontent.com/116774906/217988614-b341f854-9da2-4751-97dd-d67868a0a174.png)
 
 **Voltaje con una frecuencia de 500Hz**
 
+![image](https://user-images.githubusercontent.com/116774906/217988903-e3ccf22e-d858-4346-a224-2c7b5d069881.png)
+
 **Voltaje con una frecuencia de 1000Hz**
+
+![image](https://user-images.githubusercontent.com/116774906/217989560-d8435cc3-10d5-446d-a6b7-02e0dc425502.png)
+
+**3.2 Utilice un multimetro para medir el voltaje V0 variando la frecuencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.**
+
+**Voltaje con una frecuencia de 0Hz**
+
+![image](https://user-images.githubusercontent.com/116774906/217990101-008439b5-b9eb-4316-b871-c8d9f465ab72.png)
+
+**Voltaje con una frecuencia de 10Hz**
+
+![image](https://user-images.githubusercontent.com/116774906/217990478-f2e1d233-9951-45d5-b4f3-cf76515eee30.png)
+
+**Voltaje con una frecuencia de 50Hz**
+
+![image](https://user-images.githubusercontent.com/116774906/217990669-15ff3be8-dde1-4df2-9067-5f91ce58d523.png)
+
+**Voltaje con una frecuencia de 100Hz**
+
+![image](https://user-images.githubusercontent.com/116774906/217990807-579c0f59-3800-41e3-b15b-b617fdaa6029.png)
+
+**Voltaje con una frecuencia de 500Hz**
+
+![image](https://user-images.githubusercontent.com/116774906/217990966-d8cf17ad-6fed-4ea4-b01b-6ba3ab9372e6.png)
+
+**Voltaje con una frecuencia de 1000Hz**
+
+![image](https://user-images.githubusercontent.com/116774906/217991035-f1be74a1-c065-45d5-9244-ebdb28c6a10e.png)
+
+**3.3 Utilice un multimetro para medir la corriente que atraviesa la resistencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.**
+
+**Corriente con una frecuencia de 0Hz**
+
+![image](https://user-images.githubusercontent.com/116774906/217991768-6c56aefe-37c4-4e74-a83e-52882b0f6745.png)
+
+**Corriente con una frecuencia de 10Hz**
+
+![image](https://user-images.githubusercontent.com/116774906/217991998-4f35acea-f1fa-41dd-9a5d-ed6a4d222007.png)
+
+**Corriente con una frecuencia de 50Hz**
+
+![image](https://user-images.githubusercontent.com/116774906/217992142-f1a821c3-1eb1-4618-b12b-2319790d6188.png)
+
+**Corriente con una frecuencia de 100Hz**
+
+![image](https://user-images.githubusercontent.com/116774906/217992229-d25be796-558f-4ce9-ba34-de4b952c7be4.png)
+
+**Corriente con una frecuencia de 500Hz**
+
+![image](https://user-images.githubusercontent.com/116774906/217992380-5fd80607-a641-4454-99bc-6b2112a0fc2a.png)
+
+**Corriente con una frecuencia de 1000Hz**
+
+![image](https://user-images.githubusercontent.com/116774906/217992537-0f4aeb21-c51c-45d5-a52d-65446d5e3e46.png)
+
+***TABLA DE DATOS***
+
+
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
@@ -128,19 +190,11 @@ para estudiar las formas de onda periódicas, a pesar de ser aplicable a todas l
 
 ### 6. CONCLUSIONES
 
-- *Se logró verificar de manera simulada el comportamiento de los capacitores e inductores en conjunto con una resistencia para los 
-circuitos con DC y AC, mediante la toma de mediciones de voltaje y analizando la onda sinusoidal con respecto a valores pico, tiempo, periódo y ciclo
-en el osciloscopio.*
+*- 
+*-
 
-- *Se pudo usar el osciloscopio de manera correcta, lo cual permitía generar las ondas que se requerían para encontrar los valores, 
-además se logró identificar capacitores e inductancias en serie o paralelo.*
-
-- *Para este laboratorio fue importante tener paciencia a la hora trabajar con el simulador de dcaclab ya que este presentaba 
-inconvenientes y en ciertas ocasiones no arrojaba los valores exactos o precisos que debería dar.*
-
-- *Inductores y capacitores se utilizan en circuitos de audio para filtrar o amplificar frecuencias específicas. Se utilizan como filtros de 
-línea telefónica, para eliminar las señales de alta frecuencia de banda ancha y se colocan en los extremos de los cables de señal para reducir el ruido.*
-
+*-
+*-
 ### 7._ BIBLIOGRAFÍA
 
 - FLOYD, THOMAS L.Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007
