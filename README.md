@@ -125,8 +125,11 @@ para estudiar las formas de onda periódicas, a pesar de ser aplicable a todas l
 
 ### 6. CONCLUSIONES
 
-*- 
-*-
+*Se logró verificar de manera correcta el comportamiento de los capacitores e inductores en conjunto con una resistencia para los 
+circuitos con DC y AC, mediante la toma de mediciones de voltaje y analizando la onda sinusoidal con respecto a valores pico, tiempo, periódo y ciclo*
+
+*Se pudo usar el osciloscopio eficazmente, de forma que permitia generar las ondas que se requerían para encontrar los valores a hallar, 
+además se logró identificar capacitores e inductancias en serie o paralelo*
 
 *-
 *-
