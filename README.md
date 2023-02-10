@@ -93,15 +93,15 @@
 
 **Voltaje con una frecuencia de 100Hz**
 
-![image](https://user-images.githubusercontent.com/116774906/217990807-579c0f59-3800-41e3-b15b-b617fdaa6029.png)
+![image](https://user-images.githubusercontent.com/116774906/217998185-93bad0b7-9210-4ace-98e5-9b1913099e65.png)
 
 **Voltaje con una frecuencia de 500Hz**
 
-![image](https://user-images.githubusercontent.com/116774906/217990966-d8cf17ad-6fed-4ea4-b01b-6ba3ab9372e6.png)
+![image](https://user-images.githubusercontent.com/116774906/217998385-e2ad8040-cc5e-4cab-beb9-3181c6ec415f.png)
 
 **Voltaje con una frecuencia de 1000Hz**
 
-![image](https://user-images.githubusercontent.com/116774906/217991035-f1be74a1-c065-45d5-9244-ebdb28c6a10e.png)
+![image](https://user-images.githubusercontent.com/116774906/217998428-e4910bb3-a922-4a3b-b6d4-7cf8a323c6ed.png)
 
 **3.3 Utilice un multimetro para medir la corriente que atraviesa la resistencia entre los valores de 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.**
 
@@ -131,7 +131,7 @@
 
 ***TABLA DE DATOS***
 
-![image](https://user-images.githubusercontent.com/116774906/217992802-f3db0b1a-3de2-4a31-89b3-b15fb5cb04dc.png)
+![image](https://user-images.githubusercontent.com/116774906/217998502-b789033b-53b9-46a8-bb1a-4cc1026e4dc0.png)
 
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
