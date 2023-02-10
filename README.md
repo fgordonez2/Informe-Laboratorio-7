@@ -131,6 +131,7 @@
 
 ***TABLA DE DATOS***
 
+![image](https://user-images.githubusercontent.com/116774906/217992802-f3db0b1a-3de2-4a31-89b3-b15fb5cb04dc.png)
 
 
 ### 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
